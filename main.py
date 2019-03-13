@@ -1,3 +1,8 @@
+'''
+This code uses a Monte Carlo Method to approximate pi.
+Created by Callum Alexander - 12/3/19
+'''
+
 from random import randint as rnd
 import math
 import os
